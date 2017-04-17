@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# a HTTP server
+# this is a HTTP server tool for static files
 
 import sys
 import SimpleHTTPServer
