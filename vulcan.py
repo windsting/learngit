@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# a HTTP server
+
 import sys
 import SimpleHTTPServer
 import SocketServer
