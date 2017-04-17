@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# this is a HTTP server for static files
+
 import sys
 import SimpleHTTPServer
 import SocketServer
